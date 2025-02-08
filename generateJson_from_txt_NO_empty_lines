@@ -1,0 +1,32 @@
+const fs = require('fs');
+
+// Citește fișierul txt cu întrebările
+fs.readFile('questions_francaise.txt', 'utf8', (err, data) => {
+  if (err) {
+    console.error('Eroare la citirea fișierului:', err);
+    return;
+  }
+
+  // Împarte textul pe linii și creează un array JSON
+  const questions = data
+    .split('\n')
+    .map((line) => line.trim())
+    .filter((line) => line) // Elimină liniile goale
+    .map((question) => ({ questionname: question }));
+
+  // Salvează JSON-ul într-un fișier
+  fs.writeFile(
+    'questions_francaise.json',
+    JSON.stringify(questions, null, 2),
+    'utf8',
+    (err) => {
+      if (err) {
+        console.error('Eroare la salvarea JSON:', err);
+        return;
+      }
+      console.log(
+        'Fișierul questions_francaise.json a fost generat cu succes!'
+      );
+    }
+  );
+});

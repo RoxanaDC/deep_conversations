@@ -1,0 +1,100 @@
+:root {
+  /* variables */
+  /*--text-color: #1a1c20;*/
+  --text-color: rgb(1, 71, 1);
+  --link-color: green;
+  --background-color: #faf6e6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--background-color);
+  max-width: 1440px; /*cannot zoom out anymore after 1440*/
+  margin: 0 /*y axis*/ auto /*x axis*/;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*SECTION 2: q*/
+.q-section {
+  padding: 0 50px;
+  margin-bottom: 10px;
+}
+
+.q-section h2 {
+  text-align: center;
+  font-size: 35px;
+  color: var(--text-color);
+}
+
+.q-section .text {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.q-section .cells {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.q-section .cells .cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 150px;
+  padding: 10px 20px;
+  margin: 1px;
+  border: 1.5px solid var(--link-color);
+  gap: 10px;
+  opacity: 0.9;
+  transition: transform 0.9s ease, opacity 0.3s ease;
+}
+
+.q-section .cells .cell span {
+  font-size: 16px;
+  text-align: center;
+}
+
+#pdf_button {
+  background-color: green;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 50px;
+}
+
+#pdf_button:hover {
+  background-color: greenyellow;
+}
+
+/*---------------------MEDIA----------------------*/
+/*---------------------MEDIA----------------------*/
+/*---------------------MEDIA----------------------*/
+/*---------------------MEDIA----------------------*/
+
+@media (max-width: 850px) {
+}
+@media (max-width: 740px) {
+}
+
+@media (max-width: 600px) {
+  /*SECTION 2: q*/
+  .q-section {
+    padding: 0 20px;
+  }
+  .q-section .cells .cell span {
+    font-size: 12px;
+  }
+}
