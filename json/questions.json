@@ -1,15 +1,15 @@
 [
   {
-    "questionname": "Quand as-tu fait quelque chose pour la première fois pour la dernière fois ? De quoi s'agissait-il ?"
+    "questionname": "Quelle est la dernière chose que tu as faite pour la première fois ? De quoi s’agissait-il ?"
   },
   {
-    "questionname": "Internet, les smartphones et autres technologies ont-ils amélioré ou détérioré le monde selon toi ?"
+    "questionname": "Selon toi, quel impact l'Internet, les smartphones et autres technologies ont-ils eu sur le monde ?"
   },
   {
-    "questionname": "Quelle est la plus grande injustice dans le monde à tes yeux ?"
+    "questionname": "À tes yeux, quelle injustice est la plus marquante dans le monde ?"
   },
   {
-    "questionname": "Considères-tu le changement comme une opportunité ou un défi ?"
+    "questionname": "Quel rôle penses-tu que le changement joue dans la vie : une opportunité, un défi, ou quelque chose d'autre ?"
   },
   {
     "questionname": "Quelle est, selon toi, la plus grande réalisation de l'humanité ?"
@@ -21,67 +21,67 @@
     "questionname": "Crois-tu à l'amitié avec quelqu'un qui t'attire ?"
   },
   {
-    "questionname": "Dans quelles situations l'argent te rend-il heureux ?"
+    "questionname": "Quand penses-tu que l'argent peut apporter du bonheur, que ce soit pour toi ou pour d'autres ?"
   },
   {
-    "questionname": "Quand as-tu réalisé que l'argent seul ne suffit pas à rendre heureux ?"
+    "questionname": "Quand as-tu compris que l'argent seul ne suffit pas à apporter le bonheur ?"
   },
   {
-    "questionname": "Penses-tu que dormir est une perte de temps ?"
+    "questionname": "Quelle est ton opinion sur le sommeil ?"
   },
   {
     "questionname": "Quel produit de consommation te semble inutile mais est souvent vendu ?"
   },
   {
-    "questionname": "Dans quels domaines les gens se prennent-ils trop au sérieux ?"
+    "questionname": "Dans quels domaines te semble que les gens se prennent trop au sérieux ?"
   },
   {
     "questionname": "Quel sujet remplacerais-tu dans le programme scolaire et par quoi ? Pourquoi ?"
   },
   {
-    "questionname": "Qu'est-ce qui sera le plus important pour notre société dans les 50 prochaines années : la tradition ou l'innovation ?"
+    "questionname": "Penses-tu que la tradition ou l'innovation influencera davantage notre société dans les 50 prochaines années ?"
   },
   {
-    "questionname": "Quelle année de ta vie aimerais-tu revivre chaque jour ?"
+    "questionname": "Existe-t-il un moment clé de ta vie que tu souhaiterais revivre ? Pourquoi celui-ci en particulier ?"
   },
   {
-    "questionname": "Quel est le meilleur conseil que tu as reçu et que tu as intégré dans ta vie ?"
+    "questionname": "Y a-t-il un conseil que tu aies reçu et qui a profondément influencé ta manière de vivre ?"
   },
   {
-    "questionname": "Si tu pouvais établir une règle universelle, laquelle serait-ce ?"
+    "questionname": "Si tu pouvais créer une règle qui s'appliquerait à tout le monde, quelle serait-elle ?"
   },
   {
-    "questionname": "Quel trait de caractère avais-tu enfant et que tu as encore aujourd'hui ?"
+    "questionname": "Y a-t-il un trait de caractère de ton enfance que tu portes encore aujourd'hui ?"
   },
   {
-    "questionname": "Quel trait de caractère est ton super-pouvoir ?"
+    "questionname": "Quel trait de caractère penses-tu être ton super-pouvoir ?"
   },
   {
-    "questionname": "Un livre ou un film a-t-il déjà changé ta vision de la vie ? Que t'a-t-il apporté exactement ?"
+    "questionname": "Un livre ou un film a-t-il déjà modifié ta perception de la vie ? Qu'est-ce qu'il t'a apporté ?"
   },
   {
-    "questionname": "Quelles habitudes de ton jeune moi garderas-tu à 80 ans et lesquelles espères-tu abandonner ?"
+    "questionname": "Quelles habitudes de ton enfance aimerais-tu garder à 80 ans, et lesquelles souhaiterais-tu laisser derrière toi ?"
   },
   {
-    "questionname": "Comment gères-tu l'idée que tout dans la vie est éphémère ?"
+    "questionname": "Comment réagis-tu à l'idée que tout dans la vie est éphémère ?"
   },
   {
-    "questionname": "Qu'est-ce qui est le plus important : apprécier le chemin ou atteindre le but ?"
+    "questionname": "Selon toi, qu'est-ce qui compte le plus : profiter du parcours ou atteindre l'objectif ?"
   },
   {
-    "questionname": "Que penses-tu des signes du zodiaque et de l'horoscope ?"
+    "questionname": "Que penses-tu des horoscopes ?"
   },
   {
-    "questionname": "La chance est-elle le fruit du hasard ou est-on l'artisan de sa propre chance ?"
+    "questionname": "Selon toi, quelle est la relation entre le hasard et la chance ?"
   },
   {
-    "questionname": "Dirais-tu que tu as de \"vrais amis\" ? Qu'est-ce qui te fait dire cela ?"
+    "questionname": "Comment définis-tu un 'vrai ami' et penses-tu en avoir ?"
   },
   {
     "questionname": "Que signifie l'amitié pour toi ?"
   },
   {
-    "questionname": "Comment as-tu évolué au cours des dix dernières années ? Es-tu satisfait de cette évolution ?"
+    "questionname": "Comment as-tu évolué au cours des dix dernières années ? As-tu une satisfaction par rapport à cette évolution ?"
   },
   {
     "questionname": "Comment souhaiterais-tu te sentir dans dix ans ?"
@@ -933,7 +933,7 @@
     "questionname": "Avons-nous réellement le libre arbitre, ou est-ce une illusion ?"
   },
   {
-    "questionname": "Est-il sain d'être obsédé par quelqu'un ou quelque chose ?"
+    "questionname": "Peut-on considérer une forte obsession pour quelqu'un ou quelque chose comme saine ?"
   },
   {
     "questionname": "Gardez-vous encore de la rancune pour quelque chose que j'ai fait étant enfant ?"
@@ -969,7 +969,7 @@
     "questionname": "Quelle est votre plus grande qualité ? Pourquoi ?"
   },
   {
-    "questionname": "Le monde serait-il un meilleur endroit sans religion ?"
+    "questionname": "En quoi la société serait-elle différente sans religion, d’après toi ?"
   },
   {
     "questionname": "Est-il vrai que bien utiliser son temps rend la vie plus significative et agréable ?"
